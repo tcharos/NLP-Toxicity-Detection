@@ -1,3 +1,3 @@
-# AIDL_B_CS01_Natural-Language-Processing-With-Deep-Learning
+# NLP Toxicity Detection
 
 This repo will hold the assignment for NLP
